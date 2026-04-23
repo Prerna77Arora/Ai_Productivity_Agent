@@ -1,0 +1,76 @@
+{
+  "a5aed2c4-73b5-4a05-a315-721b037b55b3": {
+    "id": "a5aed2c4-73b5-4a05-a315-721b037b55b3",
+    "title": "Taj Mahal",
+    "content": "The Taj Mahal is a white marble mausoleum located in Agra, India. It was built by Mughal Emperor Shah Jahan in memory of his wife, Mumtaz Mahal, who died in 1631. The Taj Mahal is considered one of the most beautiful buildings in the world and is a symbol of love and romance. It is a UNESCO World Heritage Site and attracts millions of visitors each year.",
+    "tags": [
+      "Taj Mahal",
+      "India",
+      "Mughal Empire",
+      "UNESCO World Heritage Site"
+    ],
+    "created_at": "2026-04-21T20:38:36.013960+00:00",
+    "updated_at": "2026-04-21T20:38:36.013960+00:00"
+  },
+  "27d78298-8185-4a6f-b6b0-b47c52765dc2": {
+    "id": "27d78298-8185-4a6f-b6b0-b47c52765dc2",
+    "title": "Dosa",
+    "content": "Dosa is a type of fermented crepe made from rice and lentils. It is a popular dish in Indian and Sri Lankan cuisine.",
+    "tags": [
+      "food",
+      "Indian cuisine",
+      "Sri Lankan cuisine"
+    ],
+    "created_at": "2026-04-20T20:25:10.817788+00:00",
+    "updated_at": "2026-04-20T20:25:10.817788+00:00"
+  },
+  "e396a5f2-b5c1-4dbb-9390-cc5e5bc98b47": {
+    "id": "e396a5f2-b5c1-4dbb-9390-cc5e5bc98b47",
+    "title": "Key Points from https://github.com/jlowin/fastmcp",
+    "content": "fastmcp is a GitHub repository. The content of the repository is not explicitly stated in the provided HTML, but it appears to be related to GitHub's features and tools.",
+    "tags": [
+      "GitHub",
+      "fastmcp"
+    ],
+    "created_at": "2026-04-20T17:50:09.187058+00:00",
+    "updated_at": "2026-04-20T17:50:09.187058+00:00"
+  },
+  "1e3b853b-b793-474b-a8e0-3fb5b1f25f50": {
+    "id": "1e3b853b-b793-474b-a8e0-3fb5b1f25f50",
+    "title": "LangGraph",
+    "content": "LangGraph is an AI-powered platform that enables users to create and manage knowledge graphs. It provides a range of tools and features for data integration, entity recognition, and relationship mapping.",
+    "tags": [
+      "AI",
+      "Knowledge Graph",
+      "Data Integration"
+    ],
+    "created_at": "2026-04-17T14:55:41.224848+00:00",
+    "updated_at": "2026-04-17T14:55:41.224862+00:00"
+  },
+  "55db645b-edfe-4a1f-9d49-9eb15cdea03f": {
+    "id": "55db645b-edfe-4a1f-9d49-9eb15cdea03f",
+    "title": "FastMCP",
+    "content": "FastMCP is a high-performance, open-source implementation of the Maximum Clique Problem (MCP) solver. It is designed to find the maximum clique in a graph, which is a fundamental problem in computer science and operations research. FastMCP uses a combination of algorithms and techniques to achieve high performance and scalability.",
+    "tags": [
+      "FastMCP",
+      "Maximum Clique Problem",
+      "MCP",
+      "graph theory",
+      "computer science"
+    ],
+    "created_at": "2026-04-15T11:37:17.632908+00:00",
+    "updated_at": "2026-04-15T11:37:17.632944+00:00"
+  },
+  "e6a0e36e-b03b-4d12-9fcb-1733651fc52c": {
+    "id": "e6a0e36e-b03b-4d12-9fcb-1733651fc52c",
+    "title": "Augmented Reality",
+    "content": "Augmented reality (AR) is a technology that superimposes digital information on the real world, using a device's camera and display to blend the virtual and real environments. AR can be experienced through various devices, including smartphones, tablets, smart glasses, and head-mounted displays.",
+    "tags": [
+      "Technology",
+      "Virtual Reality",
+      "Innovation"
+    ],
+    "created_at": "2026-04-23T14:48:48.832714+00:00",
+    "updated_at": "2026-04-23T14:48:48.832714+00:00"
+  }
+}
