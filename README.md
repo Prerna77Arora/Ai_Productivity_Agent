@@ -15,33 +15,6 @@ A comprehensive AI-powered productivity assistant that combines web research, no
 
 ![AI Productivity Agent Architecture](ai_productivity_agent_architecture.svg)
 
-### Architecture Flow
-
-```
-User Input
-    |
-    v
-Streamlit UI (Chat Interface)
-    |
-    v
-LangGraph Agent (ReAct Reasoning)
-    |
-    v
-MCP Client (MultiServerMCPClient)
-    |
-    v
-FastMCP Server (Notes + Tasks + Web Fetch)
-    |
-    v
-JSON Storage (notes.json + tasks.json)
-│         (Tool Selection + Reasoning)           │
-└─────────────────┬───────────────────────────┘
-                  │
-                  ▼
-┌─────────────────────────────────────────────────────────┐
-│          FastMCP Server                       │
-│    (Notes + Tasks + Web Fetch Tools)        │
-```
 
 ### Component Details
 
